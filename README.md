@@ -1,2 +1,5 @@
 # Hello-World
-My first repository
+
+hi People!
+I have started learning android and am enthusiastic for learning more new technologies.
+
